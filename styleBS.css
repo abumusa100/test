@@ -1,0 +1,8 @@
+body{
+  background-color:rgba(10, 10, 50, 0.5);
+  font-family:'Montserrat', sans-serif;
+ }
+
+.card-body{
+  background-color: rgba(100, 130,50, 0.5);
+}
